@@ -1,7 +1,7 @@
 # Traffic_Sign_Recognition
 A multi-class classification, Yolo algorithm
 
-Thanks for the German Traffic Sign Recognition Benchmark for providing the data.
+Thanks to the German Traffic Sign Recognition Benchmark for providing the data.
 
     @inproceedings{Stallkamp-IJCNN-2011,
 
