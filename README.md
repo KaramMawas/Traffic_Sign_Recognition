@@ -1,6 +1,8 @@
 # Traffic_Sign_Recognition
 A multi-class classification, Yolo algorithm
+
 Thanks for the German Traffic Sign Recognition Benchmark for providing the data.
+
 @inproceedings{Stallkamp-IJCNN-2011,
     author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel},
     booktitle = {IEEE International Joint Conference on Neural Networks},
