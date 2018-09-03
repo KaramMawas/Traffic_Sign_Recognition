@@ -11,3 +11,5 @@ Thanks to the German Traffic Sign Recognition Benchmark for providing the data.
     year = {2011},
     pages = {1453--1460}
     }
+# License
+[GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
