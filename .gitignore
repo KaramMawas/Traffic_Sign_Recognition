@@ -2,3 +2,6 @@
 .project
 *.pyc
 .ipynb_checkpoints
+data.npy
+allimports.py
+*.model
